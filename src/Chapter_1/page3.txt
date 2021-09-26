@@ -1,6 +1,7 @@
-This is our third page
 
-the story is interesting
+This is page three
+
+We have be care full when creating pages
 
 
-random text
+Java is a big fun!
