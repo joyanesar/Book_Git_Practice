@@ -1,7 +1,7 @@
 
 This is page three
 
-We have be care full when creating pages
+We have to be care full when creating pages
 
 
 Java is a
