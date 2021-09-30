@@ -1,2 +1,7 @@
 this chapter 4
 on git
+
+Today is third day of 
+git 
+
+becarefull when you do fecth and pull 
